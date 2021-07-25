@@ -1,6 +1,6 @@
 # clone repo
 ```
-git clone https://gitlab.com/QEF/q-e
+git clone --depth=1 --single-branch https://gitlab.com/QEF/q-e
 cd q-e
 git checkout 98901cc0d67dfed37319187ab6ed10387c1b8f43
 cd ..
